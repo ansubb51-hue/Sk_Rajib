@@ -54,21 +54,21 @@
     "buttons": [
       {
         "name": "Discord Support",
-        "link": "https://discord.gg/gZKZQQdGMB",
+        "link": "https://discord.gg/HPnRD7Mw6N",
         "icon": "fab fa-discord",
         "gradient": ["#5865f2", "#4752c4"],
         "glow": "rgba(88,101,242,0.35)"
       },
       {
         "name": "Discord Community",
-        "link": "https://discord.gg/ERJdY5HYgx",
+        "link": "https://discord.gg/HPnRD7Mw6N",
         "icon": "fab fa-discord",
         "gradient": ["#5865f2", "#4752c4"],
         "glow": "rgba(88,101,242,0.35)"
       },
       {
         "name": "GitHub",
-        "link": "https://github.com/tuzhicodes",
+        "link": "https://github.com/ansubb51-hue",
         "icon": "fab fa-github",
         "gradient": ["#5865f2", "#4752c4"],
         "glow": "rgba(88,101,242,0.35)"
@@ -83,7 +83,7 @@
     ],
     
     "about": "🐰 A Dreamer Who Never Sleeps !! 🐰\nDeveloper | Gamer | Content Creator",
-    "decoration": { "file": "rainbow-ring" },
+    "decoration": { "file": "flower-wreath" },
     "footer": "© 2025 Made with Sk_Rakesh"
   }
 }
